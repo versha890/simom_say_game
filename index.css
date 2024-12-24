@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: rebeccapurple;
+}
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border: 7px solid black;
+    border-radius: 40px;
+    display: inline-block;
+}
+.red{
+    background-color: rgb(224, 129, 129)
+}
+.purple{
+    background-color: rgb(227, 127, 227);
+    
+}
+.green{
+    background-color: rgb(160, 236, 160);
+    margin-top: 20px;
+}
+.yellow{
+    background-color: rgb(235, 235, 152);
+}
+body{
+    text-align: center;
+    background-color: rgb(218, 207, 207);
+}
+.flash{
+    background-color: white;
+}
+.userbtnflash{
+    background-color: rgb(54, 240, 54);
+}
+
+
+
